@@ -1,6 +1,6 @@
 package es.ulpgc.moreno101.himar.recyclerviewexample
 
-data class SuperApp (
+data class SuperAppModel (
     val app:String,
     val creator:String,
     val description:String,
